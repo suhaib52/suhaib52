@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @suhaib52
-- 👀 I’m interested in FrontEnd Webdevelopment.
+- 👋 Hi, I’m Suhaib Ahmad
+- 👀 Currently, I am working as a Web & UX Designer, Now I’m interested in learning FrontEnd development.
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Javascript learning projects and groups.
 - 📫 You can reachout to me suhaib.iiu@gmail.com
